@@ -1,0 +1,61 @@
+/* Navbar */
+@media screen and (max-width: 992px) {
+    .header h1 , .header h1 span {
+        font-size: 45px;
+    }
+}
+@media screen and (max-width: 768px)
+{
+    .header h1 , .header h1 span {
+        font-size: 30px;
+    }
+}
+/* End Of Navbar */
+
+/* About */
+@media screen and (max-width: 992px) {
+    .man img
+    {
+        width: 100%;
+    }
+    .about-info
+    {
+        margin-top: 50px;
+    }
+    .about-butn
+    {
+        margin-top: 28px;
+    }
+}
+/* End Of About */
+
+/* Clients */
+@media screen and (max-width: 992px) {
+    .caro-info p
+    {
+        width: 100%;
+    }
+    
+}
+@media screen and (max-width: 768px) {
+    .caro-info p
+    {
+        width: 95%;
+    }
+
+}
+/* End Of Clients */
+
+/* Contact */
+@media screen and (max-width: 992px) {
+    #contact .container
+    {
+        width: 100% !important;
+    }
+    #contact input
+    {
+        margin-block: 10px;
+    }
+    
+}
+/* End Of Contact */
